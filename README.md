@@ -11,6 +11,9 @@ npm run dev
 
 Open the URL printed by Vite. `npm run build` creates a static website in `dist`; `npm run preview` serves that build locally. Deploy only `dist` to a static host. There is no progress API or server database. `npm test` checks storage, migration, backup validation, filtering, and dataset integrity.
 
+Pushes to `main` deploy automatically to GitHub Pages through
+`.github/workflows/deploy-pages.yml`.
+
 ## Features
 
 - 360 map entries, with legend colors and categories.
