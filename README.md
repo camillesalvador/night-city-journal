@@ -58,4 +58,3 @@ The **Iconic weapons** sidebar section contains 113 entries imported from the su
 Quest rows show iconic weapon counts. Clicking a weapon's mission opens its flowchart node, whose details also show the associated weapons. Weapons are collected manually and independently of quest completion. Your existing quest progress is preserved.
 
 Weapon progress saves to browser localStorage independently of quest progress. Use the armory's **Export weapon progress** and **Import weapon backup** controls to move the collection between browsers, including importing the original `data/weapons.txt`.
-# night-city-journal
