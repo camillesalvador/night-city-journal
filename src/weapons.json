@@ -1,0 +1,1713 @@
+[
+  {
+    "id": "w-achilles-x-mod2",
+    "name": "Achilles x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J23:L23",
+    "sourceRow": 23
+  },
+  {
+    "id": "w-agaou",
+    "name": "Agaou",
+    "group": "Criminal activities",
+    "section": "Increased Criminal Activity (Phantom Liberty)",
+    "mission": "",
+    "location": "Voodoo Boys",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B50:C50",
+    "sourceRow": 50
+  },
+  {
+    "id": "w-alabai",
+    "name": "Alabai",
+    "group": "Airdrops",
+    "section": "Airdrops (Phantom Liberty) [Airdrop-Specific Checklist Here]",
+    "mission": "",
+    "location": "Near Brave Atlas",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B24:C24",
+    "sourceRow": 24
+  },
+  {
+    "id": "w-ambition",
+    "name": "Ambition",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Prototype in the Scraper",
+    "location": "Prototype in the Scraper",
+    "notes": "Call Mr. Hands | Give the Eye",
+    "links": [
+      {
+        "questId": "q-5665-4641",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J9:L9",
+    "sourceRow": 9
+  },
+  {
+    "id": "w-amnesty",
+    "name": "Amnesty",
+    "group": "Main Missions",
+    "section": "ENDINGS",
+    "mission": "We Gotta Live Together",
+    "location": "We Gotta Live Together",
+    "notes": "Call Panam | Beat Cassidy Righter",
+    "links": [
+      {
+        "questId": "q-5153-3617",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E25:G25",
+    "sourceRow": 25
+  },
+  {
+    "id": "w-amstaff",
+    "name": "Amstaff",
+    "group": "Airdrops / Prime rewards",
+    "section": "Airdrops / Amazon Prime Reward",
+    "mission": "",
+    "location": "Any",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B29:C29",
+    "sourceRow": 29
+  },
+  {
+    "id": "w-apparition",
+    "name": "Apparition",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "War Pigs (CORPO)",
+    "location": "War Pigs (CORPO)",
+    "notes": "Defeat Frank Nostra (CORPO) OR Black Market Dealer (NON-CORPO)",
+    "links": [
+      {
+        "questId": "q-4897-5409",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E67:G67",
+    "sourceRow": 67
+  },
+  {
+    "id": "w-archangel",
+    "name": "Archangel",
+    "group": "Side Jobs",
+    "section": "JOHNNY/KERRY'S STORYLINE",
+    "mission": "A Like Supreme",
+    "location": "A Like Supreme",
+    "notes": "Given by Kerry",
+    "links": [
+      {
+        "questId": "q-5665-2849",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E56:G56",
+    "sourceRow": 56
+  },
+  {
+    "id": "w-ba-xing-chong",
+    "name": "Ba Xing Chong",
+    "group": "Main Missions",
+    "section": "ENDINGS",
+    "mission": "",
+    "location": "",
+    "notes": "Loot Adam Smasher | Ebunike Locked Room",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E26:G26",
+    "sourceRow": 26
+  },
+  {
+    "id": "w-baby-boomer",
+    "name": "Baby Boomer",
+    "group": "Side Jobs",
+    "section": "GENERAL (PHANTOM LIBERTY)",
+    "mission": "Dazed and Confused",
+    "location": "Dazed and Confused",
+    "notes": "Sister OR Clone",
+    "links": [
+      {
+        "questId": "q-6433-4641",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E70:G70",
+    "sourceRow": 70
+  },
+  {
+    "id": "w-bald-eagle",
+    "name": "Bald Eagle",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Firestarter",
+    "location": "Firestarter",
+    "notes": "Loot Hansen",
+    "links": [
+      {
+        "questId": "q-7201-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E32:G32",
+    "sourceRow": 32
+  },
+  {
+    "id": "w-baseball-bat-x-mod2",
+    "name": "Baseball Bat x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J24:L24",
+    "sourceRow": 24
+  },
+  {
+    "id": "w-bfc-9000",
+    "name": "BFC 9000",
+    "group": "Hidden in World",
+    "section": "Hidden in World",
+    "mission": "",
+    "location": "Dam Viewpoint in Rancho Coronado",
+    "notes": "Crashed AV OR Black Market Dealer if Missed | Nudity ON",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J19:L19",
+    "sourceRow": 19
+  },
+  {
+    "id": "w-black-unicorn",
+    "name": "Black Unicorn",
+    "group": "My Rewards",
+    "section": "\"My Rewards\" Goodies",
+    "mission": "",
+    "location": "Register for My Rewards",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B36:C36",
+    "sourceRow": 36
+  },
+  {
+    "id": "w-bloody-maria",
+    "name": "Bloody Maria",
+    "group": "Gigs",
+    "section": "Gigs",
+    "mission": "",
+    "location": "",
+    "notes": "Complete Every El Capitán Gig",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J4:L4",
+    "sourceRow": 4
+  },
+  {
+    "id": "w-blue-fang",
+    "name": "Blue Fang",
+    "group": "Vendors",
+    "section": "Weapon Vendors",
+    "mission": "",
+    "location": "Jackson Plains",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B54:C54",
+    "sourceRow": 54
+  },
+  {
+    "id": "w-borzaya",
+    "name": "Borzaya",
+    "group": "Airdrops",
+    "section": "Airdrops (Phantom Liberty) [Airdrop-Specific Checklist Here]",
+    "mission": "",
+    "location": "Brave Atlas | Complete Lucretia My Reflection + Garry Bates",
+    "notes": "",
+    "links": [
+      {
+        "questId": "q-5665-4897",
+        "relation": "prerequisite"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B25:C25",
+    "sourceRow": 25
+  },
+  {
+    "id": "w-breakthrough",
+    "name": "Breakthrough",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "Rancho Coronado",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B41:C41",
+    "sourceRow": 41
+  },
+  {
+    "id": "w-butcher-s-cleaver",
+    "name": "Butcher's Cleaver",
+    "group": "Main Missions",
+    "section": "AUTOMATIC LOVE QUESTLINE",
+    "mission": "M'ap Tann Pèlen",
+    "location": "M'ap Tann Pèlen",
+    "notes": "Placide Puts It Down",
+    "links": [
+      {
+        "questId": "q-3873-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E13:G13",
+    "sourceRow": 13
+  },
+  {
+    "id": "w-buzzsaw",
+    "name": "Buzzsaw",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "Northside",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B42:C42",
+    "sourceRow": 42
+  },
+  {
+    "id": "w-byakko",
+    "name": "Byakko",
+    "group": "Gigs",
+    "section": "Gigs",
+    "mission": "",
+    "location": "",
+    "notes": "Complete Every Wakako Gig",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J5:L5",
+    "sourceRow": 5
+  },
+  {
+    "id": "w-caretaker-s-spade",
+    "name": "Caretaker's Spade",
+    "group": "Main Missions",
+    "section": "ENDINGS",
+    "mission": "Knockin' on Heaven's Door",
+    "location": "Knockin' on Heaven's Door",
+    "notes": "Call Rogue | Jungle Floor",
+    "links": [
+      {
+        "questId": "q-5409-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E23:G23",
+    "sourceRow": 23
+  },
+  {
+    "id": "w-carmen",
+    "name": "Carmen",
+    "group": "Side Jobs",
+    "section": "GENERAL (PHANTOM LIBERTY)",
+    "mission": "Balls to the Wall",
+    "location": "Balls to the Wall",
+    "notes": "BEFORE Firestarter | Leave Dogtown / Call Favor / Just Kill Him",
+    "links": [
+      {
+        "questId": "q-5665-5409",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E69:G69",
+    "sourceRow": 69
+  },
+  {
+    "id": "w-catahoula",
+    "name": "Catahoula",
+    "group": "Airdrops / Prime rewards",
+    "section": "Airdrops / Amazon Prime Reward",
+    "mission": "",
+    "location": "Any",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B30:C30",
+    "sourceRow": 30
+  },
+  {
+    "id": "w-chaos",
+    "name": "Chaos",
+    "group": "Main Missions",
+    "section": "PROLOGUE",
+    "mission": "The Pickup",
+    "location": "The Pickup",
+    "notes": "Defeat Royce",
+    "links": [
+      {
+        "questId": "q-1569-3617",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E4:G4",
+    "sourceRow": 4
+  },
+  {
+    "id": "w-cheetah",
+    "name": "Cheetah",
+    "group": "Side Jobs",
+    "section": "GENERAL (PHANTOM LIBERTY)",
+    "mission": "No Easy Way Out",
+    "location": "No Easy Way Out",
+    "notes": "Reject Angelica Whelan's Deal",
+    "links": [
+      {
+        "questId": "q-5665-5665",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E71:G71",
+    "sourceRow": 71
+  },
+  {
+    "id": "w-chesapeake",
+    "name": "Chesapeake",
+    "group": "Airdrops / Prime rewards",
+    "section": "Airdrops / Amazon Prime Reward",
+    "mission": "",
+    "location": "Any",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B31:C31",
+    "sourceRow": 31
+  },
+  {
+    "id": "w-chinook",
+    "name": "Chinook",
+    "group": "Airdrops / Prime rewards",
+    "section": "Airdrops / Amazon Prime Reward",
+    "mission": "",
+    "location": "Any",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B32:C32",
+    "sourceRow": 32
+  },
+  {
+    "id": "w-claw-x-mod2",
+    "name": "Claw x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J25:L25",
+    "sourceRow": 25
+  },
+  {
+    "id": "w-cocktail-stick",
+    "name": "Cocktail Stick",
+    "group": "Main Missions",
+    "section": "AUTOMATIC LOVE QUESTLINE",
+    "mission": "Automatic Love",
+    "location": "Automatic Love",
+    "notes": "Cloud Dressing Room",
+    "links": [
+      {
+        "questId": "q-2593-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E9:G9",
+    "sourceRow": 9
+  },
+  {
+    "id": "w-comrade-s-hammer",
+    "name": "Comrade's Hammer",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "Arroyo",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B43:C43",
+    "sourceRow": 43
+  },
+  {
+    "id": "w-cottonmouth",
+    "name": "Cottonmouth",
+    "group": "Main Missions",
+    "section": "AUTOMATIC LOVE QUESTLINE",
+    "mission": "The Space in Between",
+    "location": "The Space in Between",
+    "notes": "Fingers' Coffee Table",
+    "links": [
+      {
+        "questId": "q-3105-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E11:G11",
+    "sourceRow": 11
+  },
+  {
+    "id": "w-crash",
+    "name": "Crash",
+    "group": "Side Jobs",
+    "section": "RIVER'S STORYLINE",
+    "mission": "Following the River",
+    "location": "Following the River",
+    "notes": "Given by River",
+    "links": [
+      {
+        "questId": "q-4129-2337",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E51:G51",
+    "sourceRow": 51
+  },
+  {
+    "id": "w-crimestopper",
+    "name": "Crimestopper",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Heaviest of Hearts",
+    "location": "Heaviest of Hearts",
+    "notes": "VIP Room 06 OR Black Market Dealer",
+    "links": [
+      {
+        "questId": "q-7713-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J8:L8",
+    "sourceRow": 8
+  },
+  {
+    "id": "w-crowbar",
+    "name": "Crowbar",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Somewhat Damaged",
+    "location": "Somewhat Damaged",
+    "notes": "Body (20) Locked Door",
+    "links": [
+      {
+        "questId": "q-7713-4641",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E36:G36",
+    "sourceRow": 36
+  },
+  {
+    "id": "w-cut-o-matic-x-mod2",
+    "name": "Cut-o-Matic x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J26:L26",
+    "sourceRow": 26
+  },
+  {
+    "id": "w-death-and-taxes",
+    "name": "Death and Taxes",
+    "group": "Side Jobs",
+    "section": "JUDY'S STORYLINE",
+    "mission": "Ex-Factor",
+    "location": "Ex-Factor",
+    "notes": "Maiko's Office OR Judy's Apartment OR Black Market Dealer",
+    "links": [
+      {
+        "questId": "q-4129-5921",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E42:G42",
+    "sourceRow": 42
+  },
+  {
+    "id": "w-dezerter",
+    "name": "Dezerter",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "The Man Who Killed Jason Foreman",
+    "location": "The Man Who Killed Jason Foreman",
+    "notes": "Spare Leon OR Call Regina | 1975 OR Remote Deactivation",
+    "links": [
+      {
+        "questId": "q-6177-4385",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J12:L12",
+    "sourceRow": 12
+  },
+  {
+    "id": "w-divided-we-stand",
+    "name": "Divided We Stand",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Stadium Love",
+    "location": "Stadium Love",
+    "notes": "Beat Walker's Score OR Kill Them All",
+    "links": [
+      {
+        "questId": "q-2593-3105",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E64:G64",
+    "sourceRow": 64
+  },
+  {
+    "id": "w-doom-doom",
+    "name": "Doom Doom",
+    "group": "Side Jobs",
+    "section": "JOHNNY/KERRY'S STORYLINE",
+    "mission": "Second Conflict",
+    "location": "Second Conflict",
+    "notes": "Looted from Dum Dum",
+    "links": [
+      {
+        "questId": "q-5409-2849",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E54:G54",
+    "sourceRow": 54
+  },
+  {
+    "id": "w-dying-night",
+    "name": "Dying Night",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "The Gun",
+    "location": "The Gun",
+    "notes": "",
+    "links": [
+      {
+        "questId": "q-1057-3361",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E65:G65",
+    "sourceRow": 65
+  },
+  {
+    "id": "w-erebus",
+    "name": "Erebus",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Somewhat Damaged",
+    "location": "Somewhat Damaged",
+    "notes": "Loot Specs & Cerberus | Quest After PL Ends",
+    "links": [
+      {
+        "questId": "q-7713-4641",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E37:G37",
+    "sourceRow": 37
+  },
+  {
+    "id": "w-errata",
+    "name": "Errata",
+    "group": "Main Missions",
+    "section": "AUTOMATIC LOVE QUESTLINE",
+    "mission": "Disasterpiece",
+    "location": "Disasterpiece",
+    "notes": "Forge",
+    "links": [
+      {
+        "questId": "q-3361-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E12:G12",
+    "sourceRow": 12
+  },
+  {
+    "id": "w-fang",
+    "name": "Fang",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Firestarter",
+    "location": "Firestarter",
+    "notes": "Loot Hansen",
+    "links": [
+      {
+        "questId": "q-7201-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E34:G34",
+    "sourceRow": 34
+  },
+  {
+    "id": "w-fenrir",
+    "name": "Fenrir",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Sacrum Profanum",
+    "location": "Sacrum Profanum",
+    "notes": "Near Captive Monk",
+    "links": [
+      {
+        "questId": "q-1569-4385",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E61:G61",
+    "sourceRow": 61
+  },
+  {
+    "id": "w-foxhound",
+    "name": "Foxhound",
+    "group": "Airdrops / Prime rewards",
+    "section": "Airdrops / Amazon Prime Reward",
+    "mission": "",
+    "location": "Any",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B33:C33",
+    "sourceRow": 33
+  },
+  {
+    "id": "w-genjiroh",
+    "name": "Genjiroh",
+    "group": "Main Missions",
+    "section": "DOWN ON THE STREET QUESTLINE",
+    "mission": "Play It Safe",
+    "location": "Play It Safe",
+    "notes": "Floor 21 | 2906 | Also @ Arasaka Estate Act 2+",
+    "links": [
+      {
+        "questId": "q-3105-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E19:G19",
+    "sourceRow": 19
+  },
+  {
+    "id": "w-gold-plated-baseball-bat",
+    "name": "Gold-Plated Baseball Bat",
+    "group": "Side Jobs",
+    "section": "JOHNNY/KERRY'S STORYLINE",
+    "mission": "Second Conflict",
+    "location": "Second Conflict",
+    "notes": "After Denny Tosses It",
+    "links": [
+      {
+        "questId": "q-5409-2849",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E55:G55",
+    "sourceRow": 55
+  },
+  {
+    "id": "w-gris-gris",
+    "name": "Gris-Gris",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Treating Symptoms",
+    "location": "Treating Symptoms",
+    "notes": "In Slider's Hideout | Storage Key Found During Gig",
+    "links": [
+      {
+        "questId": "q-5921-4385",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J13:L13",
+    "sourceRow": 13
+  },
+  {
+    "id": "w-guillotine-x-mod2",
+    "name": "Guillotine x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J27:L27",
+    "sourceRow": 27
+  },
+  {
+    "id": "w-guts",
+    "name": "Guts",
+    "group": "Hidden in World",
+    "section": "Hidden in World",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J20:L20",
+    "sourceRow": 20
+  },
+  {
+    "id": "w-gwynbleidd",
+    "name": "Gwynbleidd",
+    "group": "My Rewards",
+    "section": "\"My Rewards\" Goodies",
+    "mission": "",
+    "location": "The Witcher 3: Wild Hunt",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B37:C37",
+    "sourceRow": 37
+  },
+  {
+    "id": "w-hawk",
+    "name": "Hawk",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Lucretia My Reflection",
+    "location": "Lucretia My Reflection",
+    "notes": "Rosalind Myers Puts It Down",
+    "links": [
+      {
+        "questId": "q-5665-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E28:G28",
+    "sourceRow": 28
+  },
+  {
+    "id": "w-headhunter",
+    "name": "Headhunter",
+    "group": "Vendors",
+    "section": "Weapon Vendors",
+    "mission": "",
+    "location": "West Wind Estate",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B55:C55",
+    "sourceRow": 55
+  },
+  {
+    "id": "w-her-majesty",
+    "name": "Her Majesty",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Get It Together",
+    "location": "Get It Together",
+    "notes": "",
+    "links": [
+      {
+        "questId": "q-6177-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E29:G29",
+    "sourceRow": 29
+  },
+  {
+    "id": "w-hercules-3ax",
+    "name": "Hercules 3AX",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Roads to Redemption",
+    "location": "Roads to Redemption",
+    "notes": "Storage Room OR Black Market Dealer",
+    "links": [
+      {
+        "questId": "q-7457-4385",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J10:L10",
+    "sourceRow": 10
+  },
+  {
+    "id": "w-hypercritical",
+    "name": "Hypercritical",
+    "group": "Gigs",
+    "section": "Gigs",
+    "mission": "Concrete Cage Trap",
+    "location": "Concrete Cage Trap",
+    "notes": "Regina Gig | Pointed Out by Tiny Mike",
+    "links": [
+      {
+        "questId": "q-6689-289",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J3:L3",
+    "sourceRow": 3
+  },
+  {
+    "id": "w-jinchu-maru",
+    "name": "Jinchu-maru",
+    "group": "Main Missions",
+    "section": "DOWN ON THE STREET QUESTLINE",
+    "mission": "Play It Safe",
+    "location": "Play It Safe",
+    "notes": "Defeat Sandayu Oda",
+    "links": [
+      {
+        "questId": "q-3105-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E20:G20",
+    "sourceRow": 20
+  },
+  {
+    "id": "w-kappa-x-mod2",
+    "name": "Kappa x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "Body (10) | Complete: Spy in the Jungle",
+    "links": [
+      {
+        "questId": "q-6177-5409",
+        "relation": "prerequisite"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J28:L28",
+    "sourceRow": 28
+  },
+  {
+    "id": "w-kongou",
+    "name": "Kongou",
+    "group": "Main Missions",
+    "section": "PROLOGUE",
+    "mission": "The Heist",
+    "location": "The Heist",
+    "notes": "Yorinobu's Bedside Table",
+    "links": [
+      {
+        "questId": "q-1825-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E5:G5",
+    "sourceRow": 5
+  },
+  {
+    "id": "w-kyubi-x-mod2",
+    "name": "Kyubi x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J29:L29",
+    "sourceRow": 29
+  },
+  {
+    "id": "w-la-chingona-dorada",
+    "name": "La Chingona Dorada",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Heroes",
+    "location": "Heroes",
+    "notes": "24 Hours After Completing \"Heroes\" | Return to Alter",
+    "links": [
+      {
+        "questId": "q-2593-4641",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E62:G62",
+    "sourceRow": 62
+  },
+  {
+    "id": "w-laika",
+    "name": "Laika",
+    "group": "Airdrops",
+    "section": "Airdrops (Phantom Liberty) [Airdrop-Specific Checklist Here]",
+    "mission": "",
+    "location": "Atop Los Osos Motel",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B26:C26",
+    "sourceRow": 26
+  },
+  {
+    "id": "w-lexington-x-mod2",
+    "name": "Lexington x-MOD2",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Shoot To Thrill",
+    "location": "Shoot To Thrill",
+    "notes": "Win The Shooting Competition",
+    "links": [
+      {
+        "questId": "q-2593-5153",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E63:G63",
+    "sourceRow": 63
+  },
+  {
+    "id": "w-lizzie",
+    "name": "Lizzie",
+    "group": "Main Missions",
+    "section": "AUTOMATIC LOVE QUESTLINE",
+    "mission": "Automatic Love",
+    "location": "Automatic Love",
+    "notes": "Private Room Near Judy Álvarez's Den",
+    "links": [
+      {
+        "questId": "q-2593-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E10:G10",
+    "sourceRow": 10
+  },
+  {
+    "id": "w-ma70-hb-x-mod2",
+    "name": "MA70 HB x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "Body (10)",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J30:L30",
+    "sourceRow": 30
+  },
+  {
+    "id": "w-malorian-arms-3516",
+    "name": "Malorian Arms 3516",
+    "group": "Side Jobs",
+    "section": "JOHNNY/KERRY'S STORYLINE",
+    "mission": "Chippin' In",
+    "location": "Chippin' In",
+    "notes": "Defeat Jeremiah Grayson",
+    "links": [
+      {
+        "questId": "q-4897-2849",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E53:G53",
+    "sourceRow": 53
+  },
+  {
+    "id": "w-mancinella",
+    "name": "Mancinella",
+    "group": "Side Jobs",
+    "section": "GENERAL (PHANTOM LIBERTY)",
+    "mission": "Run This Town",
+    "location": "Run This Town",
+    "notes": "",
+    "links": [
+      {
+        "questId": "q-7457-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E72:G72",
+    "sourceRow": 72
+  },
+  {
+    "id": "w-moron-labe",
+    "name": "Moron Labe",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "West Wind Estate",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B44:C44",
+    "sourceRow": 44
+  },
+  {
+    "id": "w-mox",
+    "name": "Mox",
+    "group": "Side Jobs",
+    "section": "JUDY'S STORYLINE",
+    "mission": "Pyramid Song",
+    "location": "Pyramid Song",
+    "notes": "Judy's Apartment",
+    "links": [
+      {
+        "questId": "q-4897-5921",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E44:G44",
+    "sourceRow": 44
+  },
+  {
+    "id": "w-murphy-s-law",
+    "name": "Murphy's Law",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Firestarter",
+    "location": "Firestarter",
+    "notes": "Defeat Murphy",
+    "links": [
+      {
+        "questId": "q-7201-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E35:G35",
+    "sourceRow": 35
+  },
+  {
+    "id": "w-ndi-osprey",
+    "name": "NDI Osprey",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Birds with Broken Wings",
+    "location": "Birds with Broken Wings",
+    "notes": "Alex's Armory",
+    "links": [
+      {
+        "questId": "q-6689-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E31:G31",
+    "sourceRow": 31
+  },
+  {
+    "id": "w-nehan",
+    "name": "Nehan",
+    "group": "Main Missions",
+    "section": "PROLOGUE",
+    "mission": "The Heist",
+    "location": "The Heist",
+    "notes": "Saburo Arasaka's Body",
+    "links": [
+      {
+        "questId": "q-1825-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E6:G6",
+    "sourceRow": 6
+  },
+  {
+    "id": "w-o-five",
+    "name": "O'Five",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Beat on the Brat: Arroyo",
+    "location": "Beat on the Brat: Arroyo",
+    "notes": "Body (8) OR Antagonize After Victory",
+    "links": [
+      {
+        "questId": "q-2337-6945",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E58:G58",
+    "sourceRow": 58
+  },
+  {
+    "id": "w-ogou",
+    "name": "Ogou",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Treating Symptoms",
+    "location": "Treating Symptoms",
+    "notes": "Defeat Robot R Mk.2",
+    "links": [
+      {
+        "questId": "q-5921-4385",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J14:L14",
+    "sourceRow": 14
+  },
+  {
+    "id": "w-ol-reliable",
+    "name": "Ol' Reliable",
+    "group": "Side Jobs",
+    "section": "GENERAL (PHANTOM LIBERTY)",
+    "mission": "Shot by Both Sides",
+    "location": "Shot by Both Sides",
+    "notes": "Loot Dante",
+    "links": [
+      {
+        "questId": "q-6433-5153",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E73:G73",
+    "sourceRow": 73
+  },
+  {
+    "id": "w-order",
+    "name": "Order",
+    "group": "Vendors",
+    "section": "Weapon Vendors",
+    "mission": "",
+    "location": "Black Market Merchant",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B56:C56",
+    "sourceRow": 56
+  },
+  {
+    "id": "w-overwatch",
+    "name": "Overwatch",
+    "group": "Side Jobs",
+    "section": "PANAM'S STORYLINE",
+    "mission": "Riders on the Storm",
+    "location": "Riders on the Storm",
+    "notes": "Given by Panam",
+    "links": [
+      {
+        "questId": "q-3617-3105",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E46:G46",
+    "sourceRow": 46
+  },
+  {
+    "id": "w-pariah",
+    "name": "Pariah",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "The Killing Moon",
+    "location": "The Killing Moon",
+    "notes": "Defeat Reed",
+    "links": [
+      {
+        "questId": "q-7457-5153",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E38:G38",
+    "sourceRow": 38
+  },
+  {
+    "id": "w-pit-bull",
+    "name": "Pit Bull",
+    "group": "Airdrops / Prime rewards",
+    "section": "Airdrops / Amazon Prime Reward",
+    "mission": "",
+    "location": "Any",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B34:C34",
+    "sourceRow": 34
+  },
+  {
+    "id": "w-pizdets",
+    "name": "Pizdets",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Spy in the Jungle",
+    "location": "Spy in the Jungle",
+    "notes": "Defeat Boris Ribakov",
+    "links": [
+      {
+        "questId": "q-6177-5409",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J11:L11",
+    "sourceRow": 11
+  },
+  {
+    "id": "w-plan-b",
+    "name": "Plan B",
+    "group": "Hidden in World",
+    "section": "Hidden in World",
+    "mission": "",
+    "location": "Municipal Landfill",
+    "notes": "Led There During KOLD MIRAGE",
+    "links": [
+      {
+        "questId": "q-3105-2593",
+        "relation": "related"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J21:L21",
+    "sourceRow": 21
+  },
+  {
+    "id": "w-pozhar-x-mod2",
+    "name": "Pozhar x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "Only After 1 AM",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J31:L31",
+    "sourceRow": 31
+  },
+  {
+    "id": "w-prejudice",
+    "name": "Prejudice",
+    "group": "Main Missions",
+    "section": "ENDINGS",
+    "mission": "For Whom the Bell Tolls",
+    "location": "For Whom the Bell Tolls",
+    "notes": "Call Rogue | Afterlife",
+    "links": [
+      {
+        "questId": "q-5153-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E22:G22",
+    "sourceRow": 22
+  },
+  {
+    "id": "w-pride",
+    "name": "Pride",
+    "group": "Main Missions",
+    "section": "ENDINGS",
+    "mission": "Knockin' on Heaven's Door",
+    "location": "Knockin' on Heaven's Door",
+    "notes": "Call Rogue | Entrance Gate After Smasher",
+    "links": [
+      {
+        "questId": "q-5409-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E24:G24",
+    "sourceRow": 24
+  },
+  {
+    "id": "w-problem-solver",
+    "name": "Problem Solver",
+    "group": "Side Jobs",
+    "section": "PANAM'S STORYLINE",
+    "mission": "Riders on the Storm",
+    "location": "Riders on the Storm",
+    "notes": "Loot Wraiths Boss Hunter OR Black Market Dealer",
+    "links": [
+      {
+        "questId": "q-3617-3105",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E47:G47",
+    "sourceRow": 47
+  },
+  {
+    "id": "w-prototype-shingen-mark-v",
+    "name": "Prototype: Shingen Mark V",
+    "group": "Main Missions",
+    "section": "DOWN ON THE STREET QUESTLINE",
+    "mission": "Gimme Danger",
+    "location": "Gimme Danger",
+    "notes": "Exterior Loading Dock | Trailer 667",
+    "links": [
+      {
+        "questId": "q-2849-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E18:G18",
+    "sourceRow": 18
+  },
+  {
+    "id": "w-psalm-11-6",
+    "name": "Psalm 11:6",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "Northside",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B45:C45",
+    "sourceRow": 45
+  },
+  {
+    "id": "w-raiju",
+    "name": "Raiju",
+    "group": "Criminal activities",
+    "section": "Increased Criminal Activity (Phantom Liberty)",
+    "mission": "",
+    "location": "BARGHEST",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B51:C51",
+    "sourceRow": 51
+  },
+  {
+    "id": "w-rasetsu",
+    "name": "Rasetsu",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "You Know My Name",
+    "location": "You Know My Name",
+    "notes": "",
+    "links": [
+      {
+        "questId": "q-6433-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E30:G30",
+    "sourceRow": 30
+  },
+  {
+    "id": "w-riskit",
+    "name": "Riskit",
+    "group": "Side Jobs",
+    "section": "GENERAL (PHANTOM LIBERTY)",
+    "mission": "Shot by Both Sides",
+    "location": "Shot by Both Sides",
+    "notes": "If Side w/ Bree | Bree Places It Down",
+    "links": [
+      {
+        "questId": "q-6433-5153",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E74:G74",
+    "sourceRow": 74
+  },
+  {
+    "id": "w-rook",
+    "name": "Rook",
+    "group": "Side Jobs",
+    "section": "GENERAL (PHANTOM LIBERTY)",
+    "mission": "Voodoo Treasure",
+    "location": "Voodoo Treasure",
+    "notes": "941229 | Aesculapius Inc. Cache | Quest Bypassable",
+    "links": [
+      {
+        "questId": "q-7201-4641",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E75:G75",
+    "sourceRow": 75
+  },
+  {
+    "id": "w-rosco",
+    "name": "Rosco",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Waiting for Dodger",
+    "location": "Waiting for Dodger",
+    "notes": "Kill Dodger",
+    "links": [
+      {
+        "questId": "q-5665-5153",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J15:L15",
+    "sourceRow": 15
+  },
+  {
+    "id": "w-sasquatch-s-hammer",
+    "name": "Sasquatch's Hammer",
+    "group": "Main Missions",
+    "section": "AUTOMATIC LOVE QUESTLINE",
+    "mission": "I Walk the Line",
+    "location": "I Walk the Line",
+    "notes": "Defeat Sasquatch OR Steal on Ground in Stealth",
+    "links": [
+      {
+        "questId": "q-4129-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E14:G14",
+    "sourceRow": 14
+  },
+  {
+    "id": "w-satori",
+    "name": "Satori",
+    "group": "Main Missions",
+    "section": "PROLOGUE",
+    "mission": "The Heist",
+    "location": "The Heist",
+    "notes": "AV Pad | After T-Bug Opens Doors",
+    "links": [
+      {
+        "questId": "q-1825-3873",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E7:G7",
+    "sourceRow": 7
+  },
+  {
+    "id": "w-scalpel",
+    "name": "Scalpel",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Big in Japan",
+    "location": "Big in Japan",
+    "notes": "Reward For Completion",
+    "links": [
+      {
+        "questId": "q-2337-4385",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E59:G59",
+    "sourceRow": 59
+  },
+  {
+    "id": "w-scorch",
+    "name": "Scorch",
+    "group": "My Rewards",
+    "section": "\"My Rewards\" Goodies",
+    "mission": "",
+    "location": "GWENT: The Witcher Card Game (MOD/CHEAT ONLY)",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B38:C38",
+    "sourceRow": 38
+  },
+  {
+    "id": "w-seraph",
+    "name": "Seraph",
+    "group": "Gigs",
+    "section": "Gigs",
+    "mission": "",
+    "location": "",
+    "notes": "Complete Every Padre Gig",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J6:L6",
+    "sourceRow": 6
+  },
+  {
+    "id": "w-sir-john-phallustiff",
+    "name": "Sir John Phallustiff",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Venus in Furs",
+    "location": "Venus in Furs",
+    "notes": "",
+    "links": [
+      {
+        "questId": "q-1825-3617",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E66:G66",
+    "sourceRow": 66
+  },
+  {
+    "id": "w-skippy",
+    "name": "Skippy",
+    "group": "Side Jobs",
+    "section": "GENERAL (BASE GAME)",
+    "mission": "Machine Gun",
+    "location": "Machine Gun",
+    "notes": "Keep or Return | Gifted Back Later",
+    "links": [
+      {
+        "questId": "q-2593-2593",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E60:G60",
+    "sourceRow": 60
+  },
+  {
+    "id": "w-sovereign",
+    "name": "Sovereign",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "Japantown",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B46:C46",
+    "sourceRow": 46
+  },
+  {
+    "id": "w-sparky",
+    "name": "Sparky",
+    "group": "Criminal activities",
+    "section": "Increased Criminal Activity (Phantom Liberty)",
+    "mission": "",
+    "location": "Scavengerss",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B52:C52",
+    "sourceRow": 52
+  },
+  {
+    "id": "w-stinger",
+    "name": "Stinger",
+    "group": "Side Jobs",
+    "section": "PANAM'S STORYLINE",
+    "mission": "I'll Fly Away",
+    "location": "I'll Fly Away",
+    "notes": "AFTER Riders on the Storm, BEFORE Queen of the Highway",
+    "links": [
+      {
+        "questId": "q-3873-3617",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E48:G48",
+    "sourceRow": 48
+  },
+  {
+    "id": "w-taigan",
+    "name": "Taigan",
+    "group": "Airdrops",
+    "section": "Airdrops (Phantom Liberty) [Airdrop-Specific Checklist Here]",
+    "mission": "",
+    "location": "North Tower of Montezuma's Throne",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B27:C27",
+    "sourceRow": 27
+  },
+  {
+    "id": "w-the-headsman",
+    "name": "The Headsman",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "North Oak",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B47:C47",
+    "sourceRow": 47
+  },
+  {
+    "id": "w-tinker-bell",
+    "name": "Tinker Bell",
+    "group": "Side Jobs",
+    "section": "RIVER'S STORYLINE",
+    "mission": "The Hunt",
+    "location": "The Hunt",
+    "notes": "Farm Control Room OR Black Market Dealer",
+    "links": [
+      {
+        "questId": "q-3873-2337",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E50:G50",
+    "sourceRow": 50
+  },
+  {
+    "id": "w-tsumetogi",
+    "name": "Tsumetogi",
+    "group": "Side Jobs",
+    "section": "JUDY'S STORYLINE",
+    "mission": "Pisces",
+    "location": "Pisces",
+    "notes": "Take From Display OR Black Market Dealer",
+    "links": [
+      {
+        "questId": "q-4641-5921",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E43:G43",
+    "sourceRow": 43
+  },
+  {
+    "id": "w-umbra-x-mod2",
+    "name": "Umbra x-MOD2",
+    "group": "Hidden in World",
+    "section": "PHANTOM LIBERTY",
+    "mission": "",
+    "location": "Hidden Spot",
+    "notes": "Only 2 - 5 AM",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J32:L32",
+    "sourceRow": 32
+  },
+  {
+    "id": "w-volkodav",
+    "name": "Volkodav",
+    "group": "Gigs",
+    "section": "PHANTOM LIBERTY (Mr. Hands)",
+    "mission": "Waiting for Dodger",
+    "location": "Waiting for Dodger",
+    "notes": "Hidden Atop Crate OR Black Market Dealer",
+    "links": [
+      {
+        "questId": "q-5665-5153",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=J16:L16",
+    "sourceRow": 16
+  },
+  {
+    "id": "w-widow-maker",
+    "name": "Widow Maker",
+    "group": "Main Missions",
+    "section": "GHOST TOWN QUESTLINE",
+    "mission": "Ghost Town",
+    "location": "Ghost Town",
+    "notes": "Defeat Nash",
+    "links": [
+      {
+        "questId": "q-2593-2849",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E16:G16",
+    "sourceRow": 16
+  },
+  {
+    "id": "w-wild-dog",
+    "name": "Wild Dog",
+    "group": "Main Missions",
+    "section": "PHANTOM LIBERTY",
+    "mission": "Firestarter",
+    "location": "Firestarter",
+    "notes": "Loot Hansen",
+    "links": [
+      {
+        "questId": "q-7201-4897",
+        "relation": "acquisition"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=E33:G33",
+    "sourceRow": 33
+  },
+  {
+    "id": "w-yasha",
+    "name": "Yasha",
+    "group": "My Rewards",
+    "section": "\"My Rewards\" Goodies",
+    "mission": "",
+    "location": "Twitch Subs Reward (MOD/CHEAT ONLY)",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B39:C39",
+    "sourceRow": 39
+  },
+  {
+    "id": "w-yinglong",
+    "name": "Yinglong",
+    "group": "NCPD activities",
+    "section": "Suspected Organized Crime Activity",
+    "mission": "",
+    "location": "Wellsprings",
+    "notes": "",
+    "links": [],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1StSHyeT7RB-yUyAvr_4WDNGRElfhBro3A1JQNEJiu58/edit?gid=395592532&range=B48:C48",
+    "sourceRow": 48
+  }
+]

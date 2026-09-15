@@ -9,14 +9,14 @@ npm install
 npm run dev
 ```
 
-Open the URL printed by Vite. `npm run build` creates the frontend build in `dist`; run `npm run preview` to serve it with the local file API. Plain static hosting cannot save the progress file. `npm test` checks backup validation, filtering, and dataset integrity.
+Open the URL printed by Vite. `npm run build` creates a static website in `dist`; `npm run preview` serves that build locally. Deploy only `dist` to a static host. There is no progress API or server database. `npm test` checks storage, migration, backup validation, filtering, and dataset integrity.
 
 ## Features
 
 - 360 map entries, with legend colors and categories.
 - Manual completion, search by quest/contact, completion filters, alphabetical sorting.
 - Original high-resolution tree with clickable quest overlays, zoom, and locate-from-list.
-- Plain text file persistence, text backup export/import, and support for older JSON backups.
+- Browser localStorage persistence, text backup import/export for quests and weapons, and support for older JSON backups.
 - Responsive layout and keyboard-accessible controls.
 
 ## Data and progress
@@ -25,16 +25,20 @@ Mission flowchart image by **u/rolux**, shared in [Cyberpunk 2.0 + Phantom Liber
 
 `src/quests.json` was extracted from the supplied map with local macOS Vision OCR, with targeted corrections. Coordinates refer to the 9984 × 7936 source image in `public/quest-map.png`. The map credits itself as public domain. This dataset reflects that map, not a current exhaustive game database. Alternate branches, endings, tarot cards, and repeated interludes are separate entries; 100% can span multiple playthroughs. Dependencies remain visible in the original image, and are not enforced programmatically.
 
-Progress is stored in `data/progress.txt`, automatically created on first app load. Each quest has a readable line:
+Progress saves automatically in the current browser's localStorage: `night-city-journal-v1` for quests and `night-city-weapons-v1` for weapons. A new browser starts with both checklists empty. Existing saved progress is preserved, and same-origin tabs synchronize through storage events. No personal progress is included in the site build.
+
+Text backups have one readable line per entry:
 
 ```text
 [x] q-289-3617 | The Nomad
 [ ] q-801-3873 | The Rescue
 ```
 
-Edit `[ ]` / `[x]` manually if desired; preserve all quest IDs and entries, then reload the app. Changes made in the app are written automatically by the local Vite server, using a temporary file and atomic replacement. The same file is shared across browsers. Returning focus to the app reloads the file. Keep the server running with `npm run dev` or `npm run preview`.
+Edit `[ ]` / `[x]` in a backup if desired; preserve all IDs and entries, then import it. Use **Import quest backup** for quests or **Import weapon backup** in the armory for weapons. Each import previews the checked-entry count and asks you to confirm replacement of that checklist only. Invalid or wrong-checklist files are rejected. Each checklist also has a text export button.
 
-When the file does not yet exist, the app transfers any legacy localStorage progress from that browser once. It leaves the old browser copy untouched as a fallback; all ongoing reads and writes use the text file. If another browser has older progress to transfer, export and import its backup explicitly. The personal progress file is excluded from Git. There is no account or game-save integration.
+To migrate from the previous file-backed version, import `data/progress.txt` and `data/weapons.txt` through their matching controls. The original files remain backups and are no longer read or modified by the app. They are ignored by Git, excluded from `dist`, and blocked from being served by the development server. Legacy server utilities are retained for their file-format tests but are not enabled in Vite.
+
+Browser progress is specific to the site address, including its port, and to the browser/profile. On a newly deployed domain, import both backups again. Export backups before clearing browser data or changing devices. Private browsing may discard data when the session ends. There is no account, cloud synchronization, or game-save integration.
 
 Extraction utilities in `scripts` use Swift/AppKit/Vision on macOS and Python's standard library, with intermediate files in `/tmp`. They are not needed to run the app. Fonts use Google Fonts with local system fallbacks.
 
@@ -50,5 +54,5 @@ The **Iconic weapons** sidebar section contains 113 entries imported from the su
 
 Quest rows show iconic weapon counts. Clicking a weapon's mission opens its flowchart node, whose details also show the associated weapons. Weapons are collected manually and independently of quest completion. Your existing quest progress is preserved.
 
-Weapon progress saves automatically to `data/weapons.txt` using the same `[x]` / `[ ]` format, and can be exported from the armory. To restore a weapon backup, replace that file with the complete exported text and reload. Keep the local server running. The personal weapon progress file is excluded from Git.
+Weapon progress saves to browser localStorage independently of quest progress. Use the armory's **Export weapon progress** and **Import weapon backup** controls to move the collection between browsers, including importing the original `data/weapons.txt`.
 # night-city-journal
